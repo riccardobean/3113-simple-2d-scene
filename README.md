@@ -30,7 +30,6 @@ This project is an animated space scene built in C++ by *Riccardo Bean* as part 
 From the project directory, build and run the program with:
 
 ```bash
-make
 make run
 ```
 
@@ -40,4 +39,4 @@ If the build succeeds, the application window should open and display the animat
 
 This project uses graphics from [Kenney](www.kenney.nl), distributed under CC0 license. In particular, the background is taken from Kenney Skyboxes, while all the other objects are taken from Kenney Planets. 
 
-Before downloading, using, our distributing, check out the [LICENSE](LICENSE).
+Before downloading, using, or distributing, check out the [LICENSE](LICENSE).
